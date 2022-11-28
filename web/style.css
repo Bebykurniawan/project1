@@ -70,6 +70,9 @@ li {
     padding-left: -100px;
     width: 65px;
   }
+  .bg-nike {
+    padding: 0;
+  }
 
 }
 
@@ -156,3 +159,8 @@ h3 {
   border-radius: 10px;
 }
 
+@media screen and (min-width:900px) {
+  .card img{
+    width: 350px;
+  }
+}
